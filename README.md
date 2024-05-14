@@ -20,11 +20,6 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alibhrloui&theme=tokyonight" alt=""/>
   
-  ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibhrloui\&theme=tokyonight&include_all_commits=false)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibhrloui&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-
+  ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibhrloui\&theme=tokyonight&include_all_commits=false)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibhrloui&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
-  
 </details></h2>

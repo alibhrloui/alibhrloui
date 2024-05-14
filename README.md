@@ -1,7 +1,5 @@
 # Hi, I'm **Ali Baharloui** 👋
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,python,javascript,html,css,flask,tensorflow,pytorch,anaconda,opencv,bash,pycharm,clion,vscode,visualstudio,linux,windows,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
-
 ## About Me
 
 - 🌐 Exploring the realms of Tech and coding.
@@ -10,12 +8,12 @@
 
 - 📷 [Instagram](https://instagram.com/alibhrloui?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 - 💬 [Telegram](https://t.me/AliBhrLoui)
-
-Feel free to reach out! Let's connect and explore the possibilities in the ever-evolving tech landscape. 🚀
-
+- 
+[![My Skills](https://skillicons.dev/icons?i=github,git,python,javascript,html,css,flask,tensorflow,pytorch,anaconda,opencv,bash,pycharm,clion,vscode,visualstudio,linux,windows,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 ![](https://hit.yhype.me/github/profile?user_id=108932477)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/alibhrloui)
 
+Feel free to reach out! Let's connect and explore the possibilities in the ever-evolving tech landscape. 🚀
 
 <h2><details>
   <summary>My Stats ⚡</summary>

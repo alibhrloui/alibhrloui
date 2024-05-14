@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Curren
 ![](https://hit.yhype.me/github/profile?user_id=108932477)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/alibhrloui)
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,cs,python,javascript,html,css,md,flask,tensorflow,pytorch,anaconda,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,clion,vscode,visualstudio,linux,windows,ubuntu,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,python,javascript,html,css,flask,tensorflow,pytorch,anaconda,opencv,bash,pycharm,clion,vscode,visualstudio,linux,windows,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
 <h2><details>
   <summary>Github Stats ⚡</summary>

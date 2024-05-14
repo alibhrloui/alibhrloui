@@ -24,15 +24,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibhrloui&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
-  
-  #### My main repositories:
-  
-  [![Recyclevision](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=Recyclevision&theme=tokyonight)](https://github.com/alibhrloui/Recyclevision)
-  [![AI-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=AI-Chatbot&theme=tokyonight)](https://github.com/alibhrloui/AI-Chatbot)
-  
-  [![Garbage-Classification](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=Garbage-Classification&theme=tokyonight)](https://github.com/alibhrloui/Garbage-Classification)
-  [![PyTorch-Image-Classification](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=PyTorch-Image-Classification&theme=tokyonight)](https://github.com/alibhrloui/PyTorch-Image-Classification)
-  
+
   <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
   
 </details></h2>

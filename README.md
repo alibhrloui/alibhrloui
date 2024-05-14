@@ -1,4 +1,4 @@
-# Hi, I'm Ali Baharloui 👋
+# Hi, I'm **Ali Baharloui** 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and coding. Currently, I'm diving into the fascinating world of Artificial Intelligence. If you share similar interests or have exciting AI projects, I'm open to collaboration and eager to contribute.
 
@@ -7,6 +7,39 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Curren
 - 🌐 Exploring the realms of Tech and coding.
 - 🤖 Learning and delving into the world of AI.
 - 🚀 Seeking collaborations with innovative AI companies.
+
+
+<h1 align="left">Hey There! 👋</h1>
+
+![](https://hit.yhype.me/github/profile?user_id=108932477)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/alibhrloui)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alibhrloui)
+
+[![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,cs,python,javascript,html,css,md,flask,tensorflow,pytorch,anaconda,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,clion,vscode,visualstudio,linux,windows,ubuntu,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
+
+<h2><details>
+  <summary>Github Stats ⚡</summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibhrloui&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
+  
+  ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibhrloui\&theme=tokyonight&include_all_commits=false)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibhrloui&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alibhrloui&theme=tokyonight" alt=""/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alibhrloui&theme=tokyo-night" alt=""/>
+  
+  #### My main repositories:
+  
+  [![Recyclevision](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=Recyclevision&theme=tokyonight)](https://github.com/alibhrloui/Recyclevision)
+  [![AI-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=AI-Chatbot&theme=tokyonight)](https://github.com/alibhrloui/AI-Chatbot)
+  
+  [![Garbage-Classification](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=Garbage-Classification&theme=tokyonight)](https://github.com/alibhrloui/Garbage-Classification)
+  [![PyTorch-Image-Classification](https://github-readme-stats.vercel.app/api/pin/?username=alibhrloui&repo=PyTorch-Image-Classification&theme=tokyonight)](https://github.com/alibhrloui/PyTorch-Image-Classification)
+  
+  <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
+  
+</details></h2>
 
 ## Connect with Me
 

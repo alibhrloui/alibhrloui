@@ -1,6 +1,6 @@
 # Hi, I'm **Ali Baharloui** 👋
 
-Welcome to my GitHub profile! I'm passionate about technology and coding. Currently, I'm diving into the fascinating world of Artificial Intelligence. If you share similar interests or have exciting AI projects, I'm open to collaboration and eager to contribute.
+[![My Skills](https://skillicons.dev/icons?i=github,git,python,javascript,html,css,flask,tensorflow,pytorch,anaconda,opencv,bash,pycharm,clion,vscode,visualstudio,linux,windows,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
 ## About Me
 
@@ -16,10 +16,10 @@ Feel free to reach out! Let's connect and explore the possibilities in the ever-
 ![](https://hit.yhype.me/github/profile?user_id=108932477)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/alibhrloui)
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,python,javascript,html,css,flask,tensorflow,pytorch,anaconda,opencv,bash,pycharm,clion,vscode,visualstudio,linux,windows,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
 <h2><details>
   <summary>My Stats ⚡</summary>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alibhrloui&theme=tokyonight" alt=""/>
   
   ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibhrloui\&theme=tokyonight&include_all_commits=false)

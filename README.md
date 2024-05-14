@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Curren
 - 🌐 Exploring the realms of Tech and coding.
 - 🤖 Learning and delving into the world of AI.
 - 🚀 Seeking collaborations with innovative AI companies.
-- 
+
 - 📷 [Instagram](https://instagram.com/alibhrloui?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 - 💬 [Telegram](https://t.me/AliBhrLoui)
 
@@ -19,14 +19,13 @@ Feel free to reach out! Let's connect and explore the possibilities in the ever-
 [![My Skills](https://skillicons.dev/icons?i=github,git,python,javascript,html,css,flask,tensorflow,pytorch,anaconda,opencv,bash,pycharm,clion,vscode,visualstudio,linux,windows,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
 <h2><details>
-  <summary>Github Stats ⚡</summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibhrloui&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
+  <summary>My Stats ⚡</summary>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alibhrloui&theme=tokyonight" alt=""/>
   
   ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibhrloui\&theme=tokyonight&include_all_commits=false)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibhrloui&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alibhrloui&theme=tokyonight" alt=""/>
   
   #### My main repositories:
   
